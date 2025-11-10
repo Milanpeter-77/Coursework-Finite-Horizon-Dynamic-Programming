@@ -13,7 +13,7 @@ We:
 * Validate it through **1 000 Monte Carlo simulations**, and
 * Compare the simulated rewards with the theoretical DP expectation.
 
-The full mathematical derivation and interpretation are provided in [`assignment_report.pdf`](assignment_report.pdf),
+The full mathematical derivation and interpretation are provided in [`assignment-report.pdf`](assignment-report.pdf),
 and all code used for computation and visualization is available in [`dprl-w1-script.ipynb`](dprl-w1-script.ipynb).
 
 ## Key Results
